@@ -21,6 +21,6 @@ egress {
 cidr_blocks      = ["0.0.0.0/0"]
 }
   tags = {
-    Name = "Demo sgg"
+    Name = "Demo sg"
   }
 }
